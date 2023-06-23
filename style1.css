@@ -273,6 +273,7 @@ hr.line {
 
 .Project-cards:nth-child(3){
     background-image: url(CrailFoto.png);
+    background-position: center;
 }
 
 /*Button cards*/
